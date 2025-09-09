@@ -1,0 +1,2 @@
+../Core/Src/command_handler.c:25:6:handleSetupAccel	4
+../Core/Src/command_handler.c:59:6:handleCommand	30

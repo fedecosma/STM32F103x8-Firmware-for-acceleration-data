@@ -1,0 +1,8 @@
+../Core/Src/usart_io.c:15:9:computeCRC	2
+../Core/Src/usart_io.c:25:6:Send_ACK	1
+../Core/Src/usart_io.c:38:6:Send_Status	1
+../Core/Src/usart_io.c:77:6:Send_AccelSample	1
+../Core/Src/usart_io.c:99:6:Send_AccelSample_Once	1
+../Core/Src/usart_io.c:121:6:Send_MaxA_ms	1
+../Core/Src/usart_io.c:151:6:Send_MaxA_mt	1
+../Core/Src/usart_io.c:173:6:Send_EnvData	1

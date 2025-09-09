@@ -1,0 +1,2 @@
+../Core/Src/serial_parser.c:14:6:Parser_Init	8	static
+../Core/Src/serial_parser.c:19:6:Parser_ProcessByte	24	static

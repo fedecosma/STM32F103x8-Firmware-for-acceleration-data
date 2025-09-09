@@ -1,0 +1,8 @@
+# Ignora file nascosti di sistema e IDE
+.DS_Store
+.cproject
+.metadata
+.mxproject
+.osx_project
+.project
+.settings

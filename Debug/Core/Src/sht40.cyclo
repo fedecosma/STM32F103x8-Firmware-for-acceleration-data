@@ -1,0 +1,3 @@
+../Core/Src/sht40.c:10:20:SHT40_Init	2
+../Core/Src/sht40.c:25:19:SHT40_MeasureRequest	2
+../Core/Src/sht40.c:35:19:SHT40_Read	2

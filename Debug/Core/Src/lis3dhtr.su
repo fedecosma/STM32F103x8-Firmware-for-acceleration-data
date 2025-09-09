@@ -1,0 +1,10 @@
+../Core/Src/lis3dhtr.c:19:19:LIS3DHTR_Init	32	static
+../Core/Src/lis3dhtr.c:44:19:LIS3DHTR_Presence	32	static
+../Core/Src/lis3dhtr.c:55:9:getMaxCounts	16	static
+../Core/Src/lis3dhtr.c:68:7:getMgDigit	16	static
+../Core/Src/lis3dhtr.c:81:9:getMaxValues	16	static
+../Core/Src/lis3dhtr.c:94:9:LIS3DHTR_DataReady	32	static
+../Core/Src/lis3dhtr.c:102:19:LIS3DHTR_Read	64	static
+../Core/Src/lis3dhtr.c:141:19:LIS3DHTR_SetODR	32	static
+../Core/Src/lis3dhtr.c:155:19:LIS3DHTR_SetFullScale	32	static
+../Core/Src/lis3dhtr.c:171:19:LIS3DHTR_SetAxes	32	static

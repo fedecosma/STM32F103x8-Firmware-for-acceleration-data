@@ -1,0 +1,4 @@
+../Core/Src/time_utils.c:15:6:setSamplingFrequency	5
+../Core/Src/time_utils.c:34:10:decodeHz	13
+../Core/Src/time_utils.c:50:9:decodeODR	13
+../Core/Src/time_utils.c:66:6:setTimeAndDate	1
